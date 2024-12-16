@@ -14,7 +14,7 @@ This is a frontend project for a Spotify-like application built using React and 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/spotify-frontend.git
+git clone https://github.com/adarshbelnekar/spotify-frontend.git
 cd spotify-frontend
 ```
 
