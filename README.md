@@ -16,4 +16,10 @@ This is a frontend project for a Spotify-like application built using React and 
 
 ```bash
 git clone https://github.com/your-username/spotify-frontend.git
-cd spotify-frontend
+cd spotify-frontend ```
+
+### Install the dependencies:
+
+```bash
+npm install
+
