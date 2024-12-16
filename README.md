@@ -4,10 +4,10 @@ This is a frontend project for a Spotify-like application built using React and 
 
 ## Table of Contents
 
-- [Installation](installation)
-- [Features](features)
-- [Contributing](contributing)
-- [ReportingIssue](reportingissues)
+- [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
+- [ReportingIssue](#reportingissues)
 
 ## Installation
 
